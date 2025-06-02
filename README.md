@@ -1,6 +1,6 @@
 # Beauty Supply Homepage
 
-A modern, responsive beauty supply homepage built with **Vite**, **React**, and **Tailwind CSS**.
+A modern, responsive beauty supply homepage mock-up built with **Vite**, **React**, and **Tailwind CSS**.
 
 ## Features
 
