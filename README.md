@@ -15,6 +15,11 @@ A modern, responsive beauty supply homepage built with **Vite**, **React**, and 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/) for animations
 
+## Live Site
+
+Check out the deployed site here:  
+👉 [https://aderolaowaduge.github.io/beauty-supply-homepage](https://aderolaowaduge.github.io/beauty-supply-homepage)  
+
 ## About This Project
 
 This project was built for personal learning and demonstration purposes.
